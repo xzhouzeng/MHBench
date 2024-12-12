@@ -1,2 +1,1 @@
-# MHBench
-MHBench: Demystifying Motion Hallucination in VideoLLMs
+The code and dataset will be made public before the conference begins.
